@@ -45,3 +45,5 @@ I have created Vehicle detection the main aim of this porject is to detect the v
 
 
 ### 🙋‍♂️Author : Amit kumar
+<img src="https://github.com/AmitAnant01/Vehicle-Detection-count/blob/main/detect.png" width="100%" />
+
