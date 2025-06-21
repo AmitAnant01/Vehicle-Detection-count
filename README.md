@@ -37,7 +37,7 @@ I have created Vehicle detection the main aim of this porject is to detect the v
  
  User Interface: It displays  statistics such as vehicle type counts, the total vehicle count, current time 🕒, and also FPS 
 
-💻 Output:
+💻 Output demo:
 
 - After the displaying of the output you can check out for the  processed video which will be saved as output.avi 🎥.
 
